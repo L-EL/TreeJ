@@ -1,5 +1,5 @@
 # TreeJ
-TreeJ is an ImageJ/Fiji plugin to reconstruct iteratively and interactively a cell lineage tree from a static labeled image.
+TreeJ is an ImageJ/Fiji plugin to reconstruct recursively and interactively a cell lineage tree from a static labeled image.
 
 To use it : 
 
@@ -10,7 +10,7 @@ To use it :
             - TreeJ is accessible in plugin>TreeJ
     
 
-https://github.com/L-EL/TreeJ/assets/9355033/860c81b6-4bf1-4118-a283-74aaa0a0aeb7
+[![simple use case](https://youtu.be/8YjHjr3D8Jo/maxresdefault.jpg)](https://youtu.be/8YjHjr3D8Jo)
 
         
 see 
