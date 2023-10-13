@@ -10,7 +10,7 @@ To use it :
             - TreeJ is accessible in plugin>TreeJ
     
 
-[![simple use case](https://youtu.be/8YjHjr3D8Jo/maxresdefault.jpg)](https://youtu.be/8YjHjr3D8Jo)
+[![simple use case](https://img.youtube.com/vi/8YjHjr3D8Jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YjHjr3D8Jo)
 
         
 see 
