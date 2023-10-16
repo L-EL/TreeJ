@@ -11,9 +11,13 @@ To use it :
 or
 
    In Fiji, add the TreeJ site to your list of update sites:
+   
        - Select Help › Update… from the menu to start the updater.
+
        - Click on Manage update sites.
+       
        - Activate the TreeJ update site and close the dialog.
+       
        - Click Apply changes and restart ImageJ.
 
 Watch the following tutorial to have a first overview on how to use TreeJ :
