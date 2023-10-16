@@ -8,11 +8,19 @@ To use it :
             - Reload ImageJ/Fiji
             
             - TreeJ is accessible in plugin>TreeJ
-    
+or
+
+   In Fiji, add the TreeJ site to your list of update sites:
+       - Select Help › Update… from the menu to start the updater.
+       - Click on Manage update sites.
+       - Activate the TreeJ update site and close the dialog.
+       - Click Apply changes and restart ImageJ.
+
+Watch the following tutorial to have a first overview on how to use TreeJ :
 
 [![simple use case](https://img.youtube.com/vi/8YjHjr3D8Jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=8YjHjr3D8Jo)
 
         
-see 
-  - ImageJ.net/TreeJ for a quick guideline
+To have more information, see :
+  - [imagej.net/plugins/treej](https://imagej.net/plugins/treej) for a quick guideline
   - the related publication 
