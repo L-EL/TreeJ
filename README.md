@@ -1,4 +1,4 @@
-# TreeJ
+# TreeJ [![DOI](https://zenodo.org/badge/64076536.svg)](https://zenodo.org/doi/10.5281/zenodo.10041642)
 TreeJ is an ImageJ/Fiji plugin to reconstruct recursively and interactively a cell lineage tree from a static labeled image.
 
 To use it : 
