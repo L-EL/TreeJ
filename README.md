@@ -27,4 +27,7 @@ Watch the following tutorial to have a first overview on how to use TreeJ :
         
 To have more information, see :
   - [imagej.net/plugins/treej](https://imagej.net/plugins/treej) for a quick guideline
-  - the related publication 
+  - [the related publication](https://doi.org/10.1186/s13007-023-01106-x)
+
+# Reference :
+Laruelle, E., Palauqui, JC., Andrey, P. et al. TreeJ: an ImageJ plugin for interactive cell lineage reconstruction from static images. Plant Methods 19, 128 (2023). [https://doi.org/10.1186/s13007-023-01106-x](https://doi.org/10.1186/s13007-023-01106-x)
